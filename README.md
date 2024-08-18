@@ -1,4 +1,4 @@
-# 2D-ARKNOID-game
+# 2D-ARKANOID game
 # Overview
 This project is a 2D Arknoid Game developed in Java.
 The game starts with an openning screen which allows the user to choose:
